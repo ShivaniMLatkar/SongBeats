@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Walking on Sunshine (exemplar)",
+    "mood": "happy / upbeat",
+    "valence": 0.85,
+    "arousal": 0.70,
+    "lyrics": "I'm walking on sunshine and don't it feel good, the sky is bright, my heart is light, I feel so alive and free, everything is wonderful, smiling all day long"
+  },
+  {
+    "title": "Hurt (exemplar)",
+    "mood": "sad / melancholic",
+    "valence": -0.80,
+    "arousal": -0.50,
+    "lyrics": "I hurt myself today, everyone I know goes away in the end, alone and empty, broken and lost, the pain stays and the tears keep falling down"
+  },
+  {
+    "title": "Killing in the Name (exemplar)",
+    "mood": "angry / aggressive",
+    "valence": -0.65,
+    "arousal": 0.85,
+    "lyrics": "I won't do what you tell me, rage and fury, fight the power, burn it down, screaming against the machine, anger boiling over, never surrender"
+  },
+  {
+    "title": "Mad World (exemplar)",
+    "mood": "ironic / sad-calm",
+    "valence": -0.60,
+    "arousal": -0.30,
+    "lyrics": "All around me are familiar faces, worn out places, the dreams in which I'm dying are the best I've ever had, a mad world, lonely and grey"
+  },
+  {
+    "title": "Pumped Up Kicks (exemplar)",
+    "mood": "contrast: upbeat music, dark lyrics",
+    "valence": -0.40,
+    "arousal": 0.55,
+    "lyrics": "All the other kids with the pumped up kicks better run, outrun my gun, faster than my bullet, danger hidden behind a cheerful melody"
+  },
+  {
+    "title": "At Last (exemplar)",
+    "mood": "love / tender",
+    "valence": 0.75,
+    "arousal": 0.15,
+    "lyrics": "At last my love has come along, my lonely days are over, you smiled and the spell was cast, here we are in heaven, warmth and tenderness forever"
+  },
+  {
+    "title": "Somewhere Only We Know (exemplar)",
+    "mood": "wistful / hopeful",
+    "valence": 0.20,
+    "arousal": 0.25,
+    "lyrics": "I walked across an empty land, I knew the pathway like the back of my hand, this could be the end of everything, so why don't we go somewhere only we know"
+  },
+  {
+    "title": "Don't Stop Me Now (exemplar)",
+    "mood": "euphoric / energetic",
+    "valence": 0.90,
+    "arousal": 0.90,
+    "lyrics": "Tonight I'm gonna have myself a real good time, I feel alive, I'm a shooting star leaping through the sky, two hundred degrees, having a ball, don't stop me now"
+  }
+]

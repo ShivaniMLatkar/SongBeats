@@ -1,0 +1,17 @@
+# Core audio feature extraction
+librosa>=0.10.1
+numpy>=1.24
+scipy>=1.10
+
+# Lyric sentiment (local / open models). Optional but recommended.
+# If transformers/torch are unavailable, the pipeline falls back to VADER.
+transformers>=4.40
+torch>=2.1
+vaderSentiment>=3.3.2
+
+# RAG / vector database. Falls back to a built-in TF-IDF vector store if absent.
+chromadb>=0.5.0
+
+# Orchestration. Falls back to a plain function pipeline if absent.
+langgraph>=0.2.0
+langchain-core>=0.3.0
